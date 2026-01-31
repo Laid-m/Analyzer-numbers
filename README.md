@@ -51,3 +51,4 @@ print("Отрицательные числа:", negative)
 print("Нулей:", zeros)
 print("Чётные числа:", even)
 print("Нечётные числа:", odd)
+
